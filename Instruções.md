@@ -13,4 +13,4 @@ Sistema de cadastro de veículos.
 - Instruções para execução do código:
   - Alteração dos dados nos campos "HOST", "USUARIO", "SENHA" e "DB" no arquivo *conexao.php*;
   - Criação de um banco de dados com o nome "desafio" e uma tabela com o nome "veiculo" no mesmo; 
-  - Executar o comando "php -S localhost:8080" no terminal do editor de texto.
+  - Executar o comando "php -S localhost:8080" no terminal do editor de código.
